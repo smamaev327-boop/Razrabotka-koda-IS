@@ -1,7 +1,7 @@
 # Razrabotka-koda-IS
 Учет товаров в продуктовом магазине
 Язык: Python 
-Библиотека для интерфейса: Streamlit
+Библиотека для интерфейса: tkinter
 База данных: MySQL
 IDE: VS Code (Visual Studio Code) + mysql-connector-python
 Наброски ИС:
